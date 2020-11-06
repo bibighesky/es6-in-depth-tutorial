@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/15Dkatz/es6-in-depth-tutorial)
+
 ## The Full JavaScript & ES6 Tutorial - (including ES7 & React)
  
 #### Please use this resource for the following reasons!
